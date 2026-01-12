@@ -1,0 +1,7 @@
+flask
+tensorflow==2.16.1
+opencv-python
+numpy
+pymongo
+requests
+werkzeug

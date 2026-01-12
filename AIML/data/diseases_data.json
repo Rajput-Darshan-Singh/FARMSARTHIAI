@@ -1,0 +1,758 @@
+{
+  "diseases": [
+    {
+      "id": "Bacterial_leaf_blight",
+      "image_url": "https://www.knowledgebank.irri.org/images/stories/rice-doctor/Bacterial_leaf_blight.jpg",
+      "languages": {
+        "english": {
+          "name": "Bacterial Leaf Blight",
+          "local_name": "BLB",
+          "cause": "Bacteria spread by rain and infected seeds.",
+          "solutions": [
+            "Use clean seeds",
+            "Avoid overwatering",
+            "Reduce nitrogen",
+            "Improve field drainage",
+            "Cut infected leaves",
+            "Spray Streptocycline + Copper Oxychloride"
+          ],
+          "pesticides": [
+            {
+              "name": "Copper oxychloride",
+              "image_link": "https://easy2agri.in/cdn/shop/files/1_940x.jpg?v=1685599192"
+            },
+            {
+              "name": "Streptocycline",
+              "image_link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1pDq6RzuSPegKicbnoyWVwRgackGKLdJdCA&s"
+            },
+            {
+              "name": "Bordeaux mixture",
+              "image_link": "https://2.imimg.com/data2/QP/JE/MY-3371352/bordo-mixture-500x500.jpg"
+            }
+          ]
+        },
+        "hindi": {
+          "name": "जीवाणु झुलसा",
+          "local_name": "पत्ती झुलसा",
+          "cause": "बारिश और संक्रमित बीजों से फैलने वाला बैक्टीरिया।",
+          "solutions": [
+            "शुद्ध/प्रमाणित बीज लगाएँ",
+            "ज्यादा सिंचाई मत करें",
+            "नाइट्रोजन कम दें",
+            "खेत की निकास व्यवस्था सुधारें",
+            "बीमार पत्तियाँ हटाएँ",
+            "स्ट्रेप्टोसाइक्लिन + कॉपर ऑक्सीक्लोराइड का छिड़काव"
+          ],
+          "pesticides": [
+            {
+              "name": "कॉपर ऑक्सीक्लोराइड",
+              "image_link": "https://easy2agri.in/cdn/shop/files/1_940x.jpg?v=1685599192"
+            },
+            {
+              "name": "स्ट्रेप्टोसाइक्लिन",
+              "image_link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1pDq6RzuSPegKicbnoyWVwRgackGKLdJdCA&s"
+            },
+            {
+              "name": "बोर्डो मिक्स",
+              "image_link": "https://2.imimg.com/data2/QP/JE/MY-3371352/bordo-mixture-500x500.jpg"
+            }
+          ]
+        },
+        "kannada": {
+          "name": "ಜೀವಾಣು ಎಲೆ ಸುಡುವಿಕೆ",
+          "local_name": "ಬಿಎಲ್‌ಬಿ",
+          "cause": "ಮಳೆ ಮತ್ತು ಸೋಂಕಿತ ಬೀಜಗಳಿಂದ ಹರಡುವ ಬ್ಯಾಕ್ಟೀರಿಯಾ.",
+          "solutions": [
+            "ಶುದ್ಧ ಬೀಜ ಬಳಸಿ",
+            "ಅಧಿಕ ನೀರಾವರಿ ತಪ್ಪಿಸಿ",
+            "ನೈಟ್ರೋಜನ್ ಕಡಿಮೆ ಮಾಡಿ",
+            "ನೀರು ನಿಷ್ಕಾಸ ಒಳ್ಳೆಯದಾಗಿರಲಿ",
+            "ರೋಗಬಿದ್ದ ಎಲೆ ತೆಗೆದುಹಾಕಿ",
+            "ಸ್ಟ್ರೆಪ್ಟೊಸೈಕ್ಲಿನ್ + ಕಾಪರ್ ಆಕ್ಸಿಕ್ಲೋರೈಡ್ ಸಿಂಪಡನೆ"
+          ],
+          "pesticides": [
+            {
+              "name": "ಕಾಪರ್ ಆಕ್ಸಿಕ್ಲೋರೈಡ್",
+              "image_link": "https://easy2agri.in/cdn/shop/files/1_940x.jpg?v=1685599192"
+            },
+            {
+              "name": "ಸ್ಟ್ರೆಪ್ಟೊಸೈಕ್ಲಿನ್",
+              "image_link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1pDq6RzuSPegKicbnoyWVwRgackGKLdJdCA&s"
+            },
+            {
+              "name": "ಬೋರ್ಡೋ ಮಿಶ್ರಣ",
+              "image_link": "https://2.imimg.com/data2/QP/JE/MY-3371352/bordo-mixture-500x500.jpg"
+            }
+          ]
+        },
+        "marathi": {
+          "name": "जीवाणू करपा",
+          "local_name": "पान करपा",
+          "cause": "पावसाने आणि संक्रमित बियांनी पसरणारा जीवाणू.",
+          "solutions": [
+            "शुद्ध बियाणे वापरा",
+            "जास्त पाणी देऊ नका",
+            "नायट्रोजन कमी करा",
+            "निचरा व्यवस्थित ठेवा",
+            "आजारी पाने काढा",
+            "स्ट्रेप्टोसायक्लिन + कॉपर ऑक्सिक्लोराईड फवारणी"
+          ],
+          "pesticides": [
+            {
+              "name": "कॉपर ऑक्सीक्लोराईड",
+              "image_link": "https://easy2agri.in/cdn/shop/files/1_940x.jpg?v=1685599192"
+            },
+            {
+              "name": "स्ट्रेप्टोसायक्लिन",
+              "image_link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1pDq6RzuSPegKicbnoyWVwRgackGKLdJdCA&s"
+            },
+            {
+              "name": "बोर्डो मिश्रण",
+              "image_link": "https://2.imimg.com/data2/QP/JE/MY-3371352/bordo-mixture-500x500.jpg"
+            }
+          ]
+        }
+      },
+      "cure_steps": [
+        "Cut and remove infected leaves",
+        "Avoid excess urea application",
+        "Spray Streptocycline + Copper Oxychloride",
+        "Improve field drainage"
+      ],
+      "recommended_pesticides": [
+        "Streptocycline",
+        "Copper Oxychloride",
+        "Copper Hydroxide"
+      ],
+      "eligible_schemes": [
+        {
+          "name": "PMFBY Crop Insurance",
+          "official_link": "https://pmfby.gov.in"
+        },
+        {
+          "name": "NFSM Rice Subsidy",
+          "official_link": "https://nfsm.gov.in"
+        },
+        {
+          "name": "Karnataka State Relief/Input Subsidy",
+          "official_link": "https://raitamitra.karnataka.gov.in"
+        }
+      ],
+      "nearby_agro_stores_api": "https://overpass-api.de/api/interpreter?data=[out:json];node(around:5000,{{LAT}},{{LNG}})[\"shop\"];out;"
+    },
+    {
+      "id": "Brown_spot",
+      "image_url": "https://www.knowledgebank.irri.org/images/stories/rice-doctor/Brown_spot.jpg",
+      "languages": {
+        "english": {
+          "name": "Brown Spot",
+          "local_name": "Leaf Spot",
+          "cause": "Fungus caused by nutrient deficiency and humidity.",
+          "solutions": [
+            "Add potassium fertilizer",
+            "Remove infected leaves",
+            "Improve soil drainage",
+            "Use treated seeds"
+          ],
+          "pesticides": [
+            {
+              "name": "Mancozeb",
+              "image_link": "https://cdn.prod.website-files.com/628ee8cd8f04ca5405cebd16/64f9a59a2324ecc4fb66242b_searles-mancozeb-fungicide-Product%20Image.webp"
+            },
+            {
+              "name": "Carbendazim",
+              "image_link": "https://www.pomais.com/wp-content/uploads/2024/08/Carbendazim-50wp-1.jpg"
+            },
+            {
+              "name": "Propiconazole",
+              "image_link": "https://5.imimg.com/data5/SELLER/Default/2025/3/498668619/YX/NY/YS/110019580/whatsapp-image-2025-03-12-at-5-26-01-pm-3.jpeg"
+            }
+          ]
+        },
+        "hindi": {
+          "name": "भूरी झुलसा",
+          "local_name": "पत्ती दाग",
+          "cause": "पोषक तत्वों की कमी और नमी के कारण फफूंदी।",
+          "solutions": [
+            "पोटाश खाद दें",
+            "बीमार पत्तियाँ हटाएँ",
+            "खेत की निकास सुधारें",
+            "उपचारित बीज लगाएँ"
+          ],
+          "pesticides": [
+            {
+              "name": "मैनकोजेब",
+              "image_link": "https://cdn.prod.website-files.com/628ee8cd8f04ca5405cebd16/64f9a59a2324ecc4fb66242b_searles-mancozeb-fungicide-Product%20Image.webp"
+            },
+            {
+              "name": "कार्बेन्डाजिम",
+              "image_link": "https://www.pomais.com/wp-content/uploads/2024/08/Carbendazim-50wp-1.jpg"
+            },
+            {
+              "name": "प्रोपिकोनाजोल",
+              "image_link": "https://5.imimg.com/data5/SELLER/Default/2025/3/498668619/YX/NY/YS/110019580/whatsapp-image-2025-03-12-at-5-26-01-pm-3.jpeg"
+            }
+          ]
+        },
+        "kannada": {
+          "name": "ಬ್ರೌನ್ ಸ್ಪಾಟ್",
+          "local_name": "ಎಲೆ ಮಚ್ಚೆ ರೋಗ",
+          "cause": "ಅಲ್ಪ ಪೋಷಕ ಹಾಗೂ ತೇವದಿಂದ ಉಂಟಾಗುವ ಹುಣ್ಣು.",
+          "solutions": [
+            "ಪೊಟಾಷ್ ರಸಗೊಬ್ಬರ ಹಾಕಿ",
+            "ರೋಗಬಿದ್ದ ಎಲೆ ತೆಗೆದುಹಾಕಿ",
+            "ನೀರು ನಿಷ್ಕಾಸ ಒಳ್ಳೆಯದಾಗಿರಲಿ",
+            "ಉಪಚಾರಿತ ಬೀಜ ಬಳಸಿ"
+          ],
+          "pesticides": [
+            {
+              "name": "ಮ್ಯಾಂಕೋಜೆಬ್",
+              "image_link": "https://cdn.prod.website-files.com/628ee8cd8f04ca5405cebd16/64f9a59a2324ecc4fb66242b_searles-mancozeb-fungicide-Product%20Image.webp"
+            },
+            {
+              "name": "ಕಾರ್ಬೆಂಡಾಜಿಮ್",
+              "image_link": "https://www.pomais.com/wp-content/uploads/2024/08/Carbendazim-50wp-1.jpg"
+            },
+            {
+              "name": "ಪ್ರೊಪಿಕೊನಾಜೋಲ್",
+              "image_link": "https://5.imimg.com/data5/SELLER/Default/2025/3/498668619/YX/NY/YS/110019580/whatsapp-image-2025-03-12-at-5-26-01-pm-3.jpeg"
+            }
+          ]
+        },
+        "marathi": {
+          "name": "तपकिरी डाग रोग",
+          "local_name": "पान डाग",
+          "cause": "पोषक तुट आणि ओलसर हवेतून होणारी बुरशी.",
+          "solutions": [
+            "पोटॅश खत द्या",
+            "आजारी पाने काढा",
+            "निचरा सुधारावा",
+            "उपचारित बियाणे वापरा"
+          ],
+          "pesticides": [
+            {
+              "name": "मॅन्कोझेब",
+              "image_link": "https://cdn.prod.website-files.com/628ee8cd8f04ca5405cebd16/64f9a59a2324ecc4fb66242b_searles-mancozeb-fungicide-Product%20Image.webp"
+            },
+            {
+              "name": "कार्बेन्डाझिम",
+              "image_link": "https://www.pomais.com/wp-content/uploads/2024/08/Carbendazim-50wp-1.jpg"
+            },
+            {
+              "name": "प्रोपिकोनाझोल",
+              "image_link": "https://5.imimg.com/data5/SELLER/Default/2025/3/498668619/YX/NY/YS/110019580/whatsapp-image-2025-03-12-at-5-26-01-pm-3.jpeg"
+            }
+          ]
+        }
+      },
+      "cure_steps": [
+        "Balanced NPK fertilizer",
+        "Improve drainage",
+        "Spray Mancozeb or Tricyclazole"
+      ],
+      "recommended_pesticides": [
+        "Tricyclazole",
+        "Mancozeb"
+      ],
+      "eligible_schemes": [
+        {
+          "name": "NFSM Nutrient Subsidy",
+          "official_link": "https://nfsm.gov.in"
+        },
+        {
+          "name": "PM-Kisan Income Support",
+          "official_link": "https://pmkisan.gov.in"
+        },
+        {
+          "name": "PMFBY Crop Insurance",
+          "official_link": "https://pmfby.gov.in"
+        }
+      ],
+      "nearby_agro_stores_api": "https://overpass-api.de/api/interpreter?data=[out:json];node(around:5000,{{LAT}},{{LNG}})[\"shop\"];out;"
+    },
+    {
+      "id": "Leaf_blast",
+      "image_url": "https://www.knowledgebank.irri.org/images/stories/rice-doctor/Leaf_blast.jpg",
+      "languages": {
+        "english": {
+          "name": "Leaf Blast",
+          "local_name": "Rice Blast",
+          "cause": "Fungus grows in humid, nitrogen-rich fields.",
+          "solutions": [
+            "Reduce nitrogen",
+            "Maintain water level",
+            "Remove infected leaves",
+            "Use blast-resistant varieties"
+          ],
+          "pesticides": [
+            {
+              "name": "Tricyclazole",
+              "image_link": "https://5.imimg.com/data5/SELLER/Default/2024/3/398061981/RO/FU/VQ/4503119/tricyclazole-75-wp.jpg"
+            },
+            {
+              "name": "Isoprothiolane",
+              "image_link": "https://5.imimg.com/data5/SELLER/Default/2022/11/IS/CU/OJ/14273756/isoprothiolane-40-ec-systemic-fungicide.jpg"
+            },
+            {
+              "name": "Pyrazophos",
+              "image_link": "https://www.pomais.com/wp-content/uploads/2024/08/Carbendazim-50wp-1.jpg"
+            }
+          ]
+        },
+        "hindi": {
+          "name": "झुलसा रोग",
+          "local_name": "ब्लास्ट रोग",
+          "cause": "नमी व ज्यादा नाइट्रोजन में फफूंदी तेजी से बढ़ती है।",
+          "solutions": [
+            "नाइट्रोजन कम दें",
+            "पानी का स्तर समान रखें",
+            "बीमार पत्तियाँ हटाएँ",
+            "प्रतिरोधक किस्में लगाएँ"
+          ],
+          "pesticides": [
+            {
+              "name": "ट्राईसाइक्लाज़ोल",
+              "image_link": "https://5.imimg.com/data5/SELLER/Default/2024/3/398061981/RO/FU/VQ/4503119/tricyclazole-75-wp.jpg"
+            },
+            {
+              "name": "आइसोप्रोथायोलीन",
+              "image_link": "https://5.imimg.com/data5/SELLER/Default/2022/11/IS/CU/OJ/14273756/isoprothiolane-40-ec-systemic-fungicide.jpg"
+            },
+            {
+              "name": "पायराज़ोफॉस",
+              "image_link": "https://www.pomais.com/wp-content/uploads/2024/08/Carbendazim-50wp-1.jpg"
+            }
+          ]
+        },
+        "kannada": {
+          "name": "ಎಲೆ ಬ್ಲಾಸ್ಟ್",
+          "local_name": "ಬ್ಲಾಸ್ಟ್ ರೋಗ",
+          "cause": "ಆದ್ರತೆ ಮತ್ತು ಅಧಿಕ ನೈಟ್ರೋಜನ್‌ನಲ್ಲಿ ಹುಣ್ಣು ಹೆಚ್ಚಾಗುತ್ತದೆ.",
+          "solutions": [
+            "ನೈಟ್ರೋಜನ್ ಕಡಿಮೆ ಮಾಡಿ",
+            "ನೀರು ಮಟ್ಟ ಸಮವಾಗಿರಲಿ",
+            "ರೋಗ ಎಲೆ ತೆಗೆದುಹಾಕಿ",
+            "ಪ್ರತಿರೋಧಕ ಜಾತಿ ಬಳಸಿ"
+          ],
+          "pesticides": [
+            {
+              "name": "ಟ್ರೈಸೈಕ್ಲಾಜೋಲ್",
+              "image_link": "https://5.imimg.com/data5/SELLER/Default/2024/3/398061981/RO/FU/VQ/4503119/tricyclazole-75-wp.jpg"
+            },
+            {
+              "name": "ಐಸೊಪ್ರೊಥಿಯೊಲೇನ್",
+              "image_link": "https://5.imimg.com/data5/SELLER/Default/2022/11/IS/CU/OJ/14273756/isoprothiolane-40-ec-systemic-fungicide.jpg"
+            },
+            {
+              "name": "ಪೈರಾಜೊಫಾಸ್",
+              "image_link": "https://www.pomais.com/wp-content/uploads/2024/08/Carbendazim-50wp-1.jpg"
+            }
+          ]
+        },
+        "marathi": {
+          "name": "ब्लास्ट रोग",
+          "local_name": "पान करपा",
+          "cause": "जास्त ओलसर हवेत व नायट्रोजनमध्ये बुरशी वाढते.",
+          "solutions": [
+            "नायट्रोजन कमी द्या",
+            "पाण्याची पातळी स्थिर ठेवा",
+            "आजारी पाने काढा",
+            "प्रतिरोधक वाण वापरा"
+          ],
+          "pesticides": [
+            {
+              "name": "ट्रायसायक्लाझोल",
+              "image_link": "https://5.imimg.com/data5/SELLER/Default/2024/3/398061981/RO/FU/VQ/4503119/tricyclazole-75-wp.jpg"
+            },
+            {
+              "name": "आयसोಪ್ರೋಥिओलेन",
+              "image_link": "https://5.imimg.com/data5/SELLER/Default/2022/11/IS/CU/OJ/14273756/isoprothiolane-40-ec-systemic-fungicide.jpg"
+            },
+            {
+              "name": "पायराझोफॉस",
+              "image_link": "https://www.pomais.com/wp-content/uploads/2024/08/Carbendazim-50wp-1.jpg"
+            }
+          ]
+        }
+      },
+      "cure_steps": [
+        "Maintain plant spacing",
+        "Avoid late irrigation",
+        "Spray Tricyclazole or Azoxystrobin"
+      ],
+      "recommended_pesticides": [
+        "Tricyclazole",
+        "Azoxystrobin"
+      ],
+      "eligible_schemes": [
+        {
+          "name": "RKVY Fungicide Subsidy",
+          "official_link": "https://rkvy.nic.in"
+        },
+        {
+          "name": "PMFBY",
+          "official_link": "https://pmfby.gov.in"
+        },
+        {
+          "name": "Karnataka Input Subsidy",
+          "official_link": "https://raitamitra.karnataka.gov.in"
+        }
+      ],
+      "nearby_agro_stores_api": "https://overpass-api.de/api/interpreter?data=[out:json];node(around:5000,{{LAT}},{{LNG}})[\"shop\"];out;"
+    },
+    {
+      "id": "Sheath_blight",
+      "image_url": "https://www.knowledgebank.irri.org/images/stories/rice-doctor/Sheath_blight.jpg",
+      "languages": {
+        "english": {
+          "name": "Sheath Blight",
+          "local_name": "ShB",
+          "cause": "Fungus in fields with standing water and excess nitrogen.",
+          "solutions": [
+            "Improve water flow",
+            "Reduce nitrogen",
+            "Remove infected leaves",
+            "Spray Validamycin or Hexaconazole"
+          ],
+          "pesticides": [
+            {
+              "name": "Validamycin",
+              "image_link": "https://5.imimg.com/data5/SELLER/Default/2023/4/302604589/VN/PN/KH/9210226/validamycin-3-.jpeg"
+            },
+            {
+              "name": "Hexaconazole",
+              "image_link": "https://5.imimg.com/data5/QA/BR/KN/SELLER-4046740/hexaconazole-5-ec-systemic-fungicide.jpg"
+            }
+          ]
+        },
+        "hindi": {
+          "name": "शेथ ब्लाइट",
+          "local_name": "शेल ब्लाइट",
+          "cause": "खड़े पानी और अधिक नाइट्रोजन वाली फसल में फफूंदी।",
+          "solutions": [
+            "पानी का प्रवाह सुधारें",
+            "नाइट्रोजन कम करें",
+            "बीमार पत्तियाँ हटाएँ",
+            "वैल्याडामाइसिन या हेक्साकोनाज़ोल का छिड़काव"
+          ],
+          "pesticides": [
+            {
+              "name": "वैल्याडामाइसिन",
+              "image_link": "https://5.imimg.com/data5/SELLER/Default/2023/4/302604589/VN/PN/KH/9210226/validamycin-3-.jpeg"
+            },
+            {
+              "name": "हैक्साकोनाज़ोल",
+              "image_link": "https://5.imimg.com/data5/QA/BR/KN/SELLER-4046740/hexaconazole-5-ec-systemic-fungicide.jpg"
+            }
+          ]
+        },
+        "kannada": {
+          "name": "ಶೀಥ್ ಬ್ಲೈಟ್",
+          "local_name": "ಶೀತ್ ಬ್ಲೈಟ್",
+          "cause": "ಸ್ಥಗಿತ ನೀರು ಮತ್ತು ಹೆಚ್ಚಿನ ನೈಟ್ರೋಜನ್ ಇರುವ ತೋಟದಲ್ಲಿ ಹುಣ್ಣು.",
+          "solutions": [
+            "ನೀರು ಹರಿವನ್ನು ಸುಧಾರಿಸಿ",
+            "ನೈಟ್ರೋಜನ್ ಕಡಿಮೆ ಮಾಡಿ",
+            "ರೋಗ ಎಲೆ ತೆಗೆದುಹಾಕಿ",
+            "ವ್ಯಾಲಿಡಾಮೈಸಿನ್ ಅಥವಾ ಹೆಕ್ಸಾಕೊನಾಜೋಲ್ ಸಿಂಪಡನೆ"
+          ],
+          "pesticides": [
+            {
+              "name": "ವ್ಯಾಲಿಡಾಮೈಸಿನ್",
+              "image_link": "https://5.imimg.com/data5/SELLER/Default/2023/4/302604589/VN/PN/KH/9210226/validamycin-3-.jpeg"
+            },
+            {
+              "name": "ಹೆಕ್ಸಾಕೊನಾಜೋಲ್",
+              "image_link": "https://5.imimg.com/data5/QA/BR/KN/SELLER-4046740/hexaconazole-5-ec-systemic-fungicide.jpg"
+            }
+          ]
+        },
+        "marathi": {
+          "name": "शीथ ब्लाइट",
+          "local_name": "शीथ ब्लाइट",
+          "cause": "उभ्या पाण्यामुळे आणि जास्त नायट्रोजनमुळे होणारी बुरशी.",
+          "solutions": [
+            "पाण्याचा प्रवाह सुधारावा",
+            "नायट्रोजन कमी करा",
+            "आजारी पाने काढा",
+            "वॅलिडामायसिन किंवा हेक्साकोनाझोल फवारणी"
+          ],
+          "pesticides": [
+            {
+              "name": "वॅलिडामायसिन",
+              "image_link": "https://5.imimg.com/data5/SELLER/Default/2023/4/302604589/VN/PN/KH/9210226/validamycin-3-.jpeg"
+            },
+            {
+              "name": "हेक्साकोनाझोल",
+              "image_link": "https://5.imimg.com/data5/QA/BR/KN/SELLER-4046740/hexaconazole-5-ec-systemic-fungicide.jpg"
+            }
+          ]
+        }
+      },
+      "cure_steps": [
+        "Improve water flow",
+        "Reduce nitrogen",
+        "Spray Validamycin or Hexaconazole"
+      ],
+      "recommended_pesticides": [
+        "Validamycin",
+        "Hexaconazole"
+      ],
+      "eligible_schemes": [
+        {
+          "name": "State Pesticide Subsidy",
+          "official_link": "https://raitamitra.karnataka.gov.in"
+        },
+        {
+          "name": "NFSM Support",
+          "official_link": "https://nfsm.gov.in"
+        },
+        {
+          "name": "PMFBY Crop Insurance",
+          "official_link": "https://pmfby.gov.in"
+        }
+      ],
+      "nearby_agro_stores_api": "https://overpass-api.de/api/interpreter?data=[out:json];node(around:5000,{{LAT}},{{LNG}})[\"shop\"];out;"
+    },
+    {
+      "id": "Leaf_scale",
+      "image_url": "https://www.knowledgebank.irri.org/images/stories/rice-doctor/Leaf_scale.jpg",
+      "languages": {
+        "english": {
+          "name": "Leaf Scale",
+          "local_name": "LS",
+          "cause": "Scale insects suck sap, making leaves yellow, especially in hot, dry weather.",
+          "solutions": [
+            "Remove heavily infested leaves",
+            "Spray Imidacloprid or Neem-based solution",
+            "Keep field weed-free"
+          ],
+          "pesticides": [
+            {
+              "name": "Imidacloprid",
+              "image_link": "https://5.imimg.com/data5/SELLER/Default/2024/2/385857149/DV/PJ/TN/44099956/imidacloprid-30-5-sc.png"
+            },
+            {
+              "name": "Neem-based solution",
+              "image_link": "https://dujjhct8zer0r.cloudfront.net/media/prod_image/3686419641752292356.webp"
+            }
+          ]
+        },
+        "hindi": {
+          "name": "लीफ स्केल",
+          "local_name": "पत्ती पैमाना",
+          "cause": "छोटे कीट रस चूसते हैं, पत्तियाँ पीली हो जाती हैं।",
+          "solutions": [
+            "बीमार पत्तियाँ हटाएँ",
+            "इमिडाक्लोप्रिड या नीम आधारित दवा छिड़काव करें",
+            "खेत साफ रखें"
+          ],
+          "pesticides": [
+            {
+              "name": "इमिडाक्लोप्रिड",
+              "image_link": "https://5.imimg.com/data5/SELLER/Default/2024/2/385857149/DV/PJ/TN/44099956/imidacloprid-30-5-sc.png"
+            },
+            {
+              "name": "नीम आधारित समाधान",
+              "image_link": "https://dujjhct8zer0r.cloudfront.net/media/prod_image/3686419641752292356.webp"
+            }
+          ]
+        },
+        "kannada": {
+          "name": "ಎಲೆ ಸ್ಕೇಲ್",
+          "local_name": "ಎಲೆ ಸ್ಕೇಲ್",
+          "cause": "ಚಿಕ್ಕ ಕೀಟಗಳು ಸಾಪ್ ಅನ್ನು ಹಿಗ್ಗಿಸುತ್ತವೆ, ಎಲೆಗಳು ಹಳದಿ ಆಗುತ್ತವೆ.",
+          "solutions": [
+            "ರೋಗಬಿದ್ದ ಎಲೆ ತೆಗೆದುಹಾಕಿ",
+            "ಇಮಿಡಾಕ್ಲೋಪ್ರಿಡ್ ಅಥವಾ ನಿಂಬೆ ಆಧಾರಿತ ಪರಿಹಾರ ಸಿಂಪಡಿಸಿ",
+            "ತೋಟವನ್ನು ಸ್ವಚ್ಛವಾಗಿ ಇರಿ"
+          ],
+          "pesticides": [
+            {
+              "name": "ಇಮಿಡಾಕ್ಲೋಪ್ರಿಡ್",
+              "image_link": "https://5.imimg.com/data5/SELLER/Default/2024/2/385857149/DV/PJ/TN/44099956/imidacloprid-30-5-sc.png"
+            },
+            {
+              "name": "ನಿಂಬೆ ಆಧಾರಿತ ಪರಿಹಾರ",
+              "image_link": "https://dujjhct8zer0r.cloudfront.net/media/prod_image/3686419641752292356.webp"
+            }
+          ]
+        },
+        "marathi": {
+          "name": "लीफ स्केल",
+          "local_name": "पान स्केल",
+          "cause": "लहान कीड रस शोषतात, पाने पिवळी होतात.",
+          "solutions": [
+            "आजारी पाने काढा",
+            "इमिडाक्लोप्रिड किंवा नीम आधारित फवारणी करा",
+            "तण काढा"
+          ],
+          "pesticides": [
+            {
+              "name": "इमिडाक्लोप्रिड",
+              "image_link": "https://5.imimg.com/data5/SELLER/Default/2024/2/385857149/DV/PJ/TN/44099956/imidacloprid-30-5-sc.png"
+            },
+            {
+              "name": "नीम आधारित फवारणी",
+              "image_link": "https://dujjhct8zer0r.cloudfront.net/media/prod_image/3686419641752292356.webp"
+            }
+          ]
+        }
+      },
+      "cure_steps": [
+        "Remove heavily infested leaves",
+        "Spray Imidacloprid or Neem-based solution",
+        "Maintain weed-free field"
+      ],
+      "recommended_pesticides": [
+        "Imidacloprid",
+        "Neem-based solution"
+      ],
+      "eligible_schemes": [
+        {
+          "name": "State Insecticide Subsidy",
+          "official_link": "https://raitamitra.karnataka.gov.in"
+        },
+        {
+          "name": "NFSM Pest Support",
+          "official_link": "https://nfsm.gov.in"
+        },
+        {
+          "name": "PMFBY Crop Insurance",
+          "official_link": "https://pmfby.gov.in"
+        }
+      ],
+      "nearby_agro_stores_api": "https://overpass-api.de/api/interpreter?data=[out:json];node(around:5000,{{LAT}},{{LNG}})[\"shop\"];out;"
+    },
+    {
+      "id": "Tungro",
+      "image_url": "https://www.knowledgebank.irri.org/images/stories/rice-doctor/Tungro.jpg",
+      "languages": {
+        "english": {
+          "name": "Tungro",
+          "local_name": "RTV",
+          "cause": "Virus spread by leafhopper insects.",
+          "solutions": [
+            "Remove infected plants",
+            "Use resistant varieties",
+            "Control leafhoppers",
+            "Keep field weed-free"
+          ],
+          "pesticides": [
+            {
+              "name": "Imidacloprid",
+              "image_link": "https://5.imimg.com/data5/SELLER/Default/2024/2/385857149/DV/PJ/TN/44099956/imidacloprid-30-5-sc.png"
+            },
+            {
+              "name": "Thiamethoxam",
+              "image_link": "https://5.imimg.com/data5/MM/DB/CN/GLADMIN-110545/actara-thiamethoxam-25-wg-insecticide.png"
+            },
+            {
+              "name": "Buprofezin",
+              "image_link": "https://5.imimg.com/data5/SELLER/Default/2023/3/296691066/MW/SJ/SF/151104122/buprofezin-25-sc.JPG"
+            }
+          ]
+        },
+        "hindi": {
+          "name": "टंगरो रोग",
+          "local_name": "लीफ हॉपपर वायरस",
+          "cause": "लीफ हॉपपर से फैलने वाला वायरस।",
+          "solutions": [
+            "बीमार पौधे तुरंत हटाएँ",
+            "प्रतिरोधक किस्में लगाएँ",
+            "लीफ हॉपपर नियंत्रण करें",
+            "खेत की निराई करें"
+          ],
+          "pesticides": [
+            {
+              "name": "इमिडाक्लोप्रिड",
+              "image_link": "https://5.imimg.com/data5/SELLER/Default/2024/2/385857149/DV/PJ/TN/44099956/imidacloprid-30-5-sc.png"
+            },
+            {
+              "name": "थायमेथॉक्साम",
+              "image_link": "https://5.imimg.com/data5/MM/DB/CN/GLADMIN-110545/actara-thiamethoxam-25-wg-insecticide.png"
+            },
+            {
+              "name": "बुप्रोफेज़िन",
+              "image_link": "https://5.imimg.com/data5/SELLER/Default/2023/3/296691066/MW/SJ/SF/151104122/buprofezin-25-sc.JPG"
+            }
+          ]
+        },
+        "kannada": {
+          "name": "ಟಂಗ್ರೋ",
+          "local_name": "ಎಲ್‌ಎಚ್ ವೈರಸ್",
+          "cause": "ಲೀಫ್‌ಹಾಪರ್ ಕೀಟದಿಂದ ಹರಡುವ ವೈರಸ್.",
+          "solutions": [
+            "ರೋಗಬಿದ್ದ ಗಿಡ ತೆಗೆದುಹಾಕಿ",
+            "ಪ್ರತಿರೋಧಕ ಜಾತಿ ಬಳಸಿ",
+            "ಲೀಫ್‌ಹಾಪರ್ ನಿಯಂತ್ರಿಸಿ",
+            "ಕಳೆ ತೆಗೆದುಹಾಕಿ"
+          ],
+          "pesticides": [
+            {
+              "name": "ಇಮಿಡಾಕ್ಲೋಪ್ರಿಡ್",
+              "image_link": "https://5.imimg.com/data5/SELLER/Default/2024/2/385857149/DV/PJ/TN/44099956/imidacloprid-30-5-sc.png"
+            },
+            {
+              "name": "ಥಿಯಾಮೆಥಾಕ್ಸಾಮ್",
+              "image_link": "https://5.imimg.com/data5/MM/DB/CN/GLADMIN-110545/actara-thiamethoxam-25-wg-insecticide.png"
+            },
+            {
+              "name": "ಬುಪ್ರೊಫೆಜಿನ್",
+              "image_link": "https://5.imimg.com/data5/SELLER/Default/2023/3/296691066/MW/SJ/SF/151104122/buprofezin-25-sc.JPG"
+            }
+          ]
+        },
+        "marathi": {
+          "name": "टंग्रो रोग",
+          "local_name": "पान उडी कीड विषाणू",
+          "cause": "पान उडी कीडे विषाणू पसरवतात.",
+          "solutions": [
+            "आजारी रोपे काढा",
+            "प्रतिरोधक वाण वापरा",
+            "उडी कीड नियंत्रण करा",
+            "तण काढा"
+          ],
+          "pesticides": [
+            {
+              "name": "इमिडाक्लोप्रिड",
+              "image_link": "https://5.imimg.com/data5/SELLER/Default/2024/2/385857149/DV/PJ/TN/44099956/imidacloprid-30-5-sc.png"
+            },
+            {
+              "name": "थायमेथॉक्साम",
+              "image_link": "https://5.imimg.com/data5/MM/DB/CN/GLADMIN-110545/actara-thiamethoxam-25-wg-insecticide.png"
+            },
+            {
+              "name": "बुप्रोफेझिन",
+              "image_link": "https://5.imimg.com/data5/SELLER/Default/2023/3/296691066/MW/SJ/SF/151104122/buprofezin-25-sc.JPG"
+            }
+          ]
+        }
+      },
+      "cure_steps": [
+        "Remove infected plants",
+        "Control leafhopper population",
+        "Spray Imidacloprid or Thiamethoxam"
+      ],
+      "recommended_pesticides": [
+        "Imidacloprid",
+        "Thiamethoxam"
+      ],
+      "eligible_schemes": [
+        {
+          "name": "PMFBY Crop Insurance",
+          "official_link": "https://pmfby.gov.in"
+        },
+        {
+          "name": "NFSM Insecticide Subsidy",
+          "official_link": "https://nfsm.gov.in"
+        },
+        {
+          "name": "KCC Emergency Loan",
+          "official_link": "https://pmkisan.gov.in/kcc"
+        }
+      ],
+      "nearby_agro_stores_api": "https://overpass-api.de/api/interpreter?data=[out:json];node(around:5000,{{LAT}},{{LNG}})[\"shop\"];out;"
+    }
+  ]
+}

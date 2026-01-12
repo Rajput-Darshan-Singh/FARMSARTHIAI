@@ -1,0 +1,32 @@
+{
+  "welcome": "Karibu kwa Kigundua Magonjwa ya Mazao",
+  "login": "Ingia",
+  "register": "Jisajili",
+  "email": "Barua pepe",
+  "password": "Nenosiri",
+  "fullName": "Jina Kamili",
+  "phone": "Nambari ya Simu",
+  "loginButton": "Ingia",
+  "registerButton": "Jisajili",
+  "home": "Nyumbani",
+  "detectDisease": "Kugundua Ugonjwa",
+  "help": "Msaada",
+  "profile": "Wasifu",
+  "settings": "Mipangilio",
+  "selectInputMethod": "Chagua Njia ya Kuingiza",
+  "takePhoto": "Piga Picha",
+  "uploadImage": "Pakia Picha",
+  "voiceRecord": "Rekodi Sauti",
+  "textInput": "Ingiza Maandishi",
+  "submit": "Wasilisha",
+  "results": "Matokeo",
+  "confidence": "Uthabiti",
+  "recommendedTreatment": "Matibabu Mapendekezwa",
+  "faq": "Maswali Yanayoulizwa Mara Kwa Mara",
+  "contactSupport": "Wasiliana na Usaidizi",
+  "loginFailed": "Ingia imeshindwa. Tafadhali angalia vitambulisho vyako.",
+  "registrationFailed": "Usajili umeshindwa. Tafadhali jaribu tena.",
+  "logout": "Toka"
+  ,"governmentSchemes": "Mikakati ya Serikali"
+  ,"logoutConfirmContent": "Una uhakika unataka kuondoka? Hii itaondoa data ya ndani ya programu."
+}
